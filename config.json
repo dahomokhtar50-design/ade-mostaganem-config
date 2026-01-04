@@ -1,4 +1,5 @@
 {
   "baseUrl": "https://actively-functional-facing-subjects.trycloudflare.com",
-  "maintenance": false
+  "maintenance": false,
+  "maintenanceMessage": "L'application est temporairement indisponible."
 }
